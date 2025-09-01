@@ -48,7 +48,7 @@ docker compose up -d
 http://localhost:8080
 ```
 
-5. To stop the containers
+5. To stop the containers:
 ```bash
 docker compose down
 ```
