@@ -35,7 +35,7 @@ cd dockerized-webapp-postgres
 2. Build the Docker images:
 
 ```bash
-docker compose build
+docker build -t webapp .
 ```
 3. Start the containers:
 
