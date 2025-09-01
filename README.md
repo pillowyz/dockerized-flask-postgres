@@ -29,7 +29,7 @@ A simple multi-container web application built with **Flask** and **PostgreSQL**
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pillowyz/dockerized-webapp-postgres.git
+git clone https://github.com/pillowyz/dockerized-flask-postgres.git
 cd dockerized-webapp-postgres
 ```
 2. Build the Docker images:
